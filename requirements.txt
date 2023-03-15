@@ -5,7 +5,7 @@ pandas==1.0.0
 numpy==1.18.4 
 pandas==1.0.0
 >>>>>>> Feature1
-scikit_learn==0.20.3
+scikit_learn==6.07.9
 joblib==0.13.2
 sqlalchemy
 mysql-connector-python
