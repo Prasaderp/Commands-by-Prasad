@@ -17,6 +17,6 @@ services:
       - ./AppPython/:/AppPython
     ports:
       - "1234:1234"
-    command: jupyter notebook --no-browser --ip=0.0.0.0 --port=1234 --allow-root
+    command: jupyter notebook --no-browser --ip=0.0.0.0 --port=1235 --allow-root
     depends_on:
       - mysql
