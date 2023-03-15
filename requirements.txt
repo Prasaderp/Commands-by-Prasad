@@ -1,5 +1,5 @@
-numpy==1.18.4
-pandas==1.0.3
+numpy==1.18.2
+pandas== 1.0.567
 scikit_learn==0.20.3
 joblib==0.13.2
 sqlalchemy
